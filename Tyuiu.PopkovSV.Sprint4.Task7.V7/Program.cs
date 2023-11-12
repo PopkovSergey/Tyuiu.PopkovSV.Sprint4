@@ -18,7 +18,7 @@ namespace Tyuiu.PopkovSV.Sprint4.Task7.V7
             string str = "31415926";
 
             DataService ds = new DataService();
-            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | ИСТНб-23-1 ";
+            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | ИСТНб-23-1 " ;
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");

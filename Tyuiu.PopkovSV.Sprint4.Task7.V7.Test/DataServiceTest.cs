@@ -9,7 +9,7 @@ namespace Tyuiu.PopkovSV.Sprint4.Task7.V7.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidCalc()
+        public void ValidCalc() 
         {
             int n = 4;
             int m = 2;
