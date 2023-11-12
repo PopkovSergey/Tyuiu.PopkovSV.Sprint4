@@ -15,14 +15,14 @@ namespace Tyuiu.PopkovSV.Sprint4.Task2.V11
             Random rnd = new Random();
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | АСОиУБ-23-1";
+            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | ИСТНб-23-1";
 
             Console.WriteLine("**********************************************************************************");
             Console.WriteLine("* Спринт #4                                                                      *");
             Console.WriteLine("* Тема: Одномерные массивы. (генератор случайных чисел)                          *");
             Console.WriteLine("* Задание #2                                                                     *");
             Console.WriteLine("* Вариaнт #11                                                                    *");
-            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | АСОиУБ-23-1                                *");
+            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | ИСТНб-23-1                                 *");
             Console.WriteLine("**********************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                       *");
             Console.WriteLine("* Дан одномерный целочисленный массив на 15 элементов заполненный случайными     *");

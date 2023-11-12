@@ -20,13 +20,13 @@ namespace Tyuiu.PopkovSV.Sprint4.Task3.V20
                                            { 3, 6, 8, 3, 4 } };
             int rows = array.GetUpperBound(0) + 1;
             int columns = array.Length / rows;
-            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | АСОиУб-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы (статический ввод)                              *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
-            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | АСОиУб-23-2                         *");
+            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | ИСТНб-23-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("***************************************************************************");

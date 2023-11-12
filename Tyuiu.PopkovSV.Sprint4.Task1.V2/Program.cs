@@ -12,13 +12,13 @@ namespace Tyuiu.PopkovSV.Sprint4.Task1.V2
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #4 | Выполнил: Попков С. В. | ПКТб-23-2";
+            Console.Title = "Спринт #4 | Выполнил: Попков С. В. |ИСТНб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Одномерные массивы (ввод с клавиатуры)                            *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #2                                                              *");
-            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | ПКТб-23-2                           *");
+            Console.WriteLine("* Выполнил: Попков Сергей Вадимович | ИСТНб-23-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан одномерный целочисленный массив на 14 элементов заполненный         *");
